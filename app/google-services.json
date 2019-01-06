@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436065185694",
+    "firebase_url": "https://onlin-android-game.firebaseio.com",
+    "project_id": "onlin-android-game",
+    "storage_bucket": "onlin-android-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436065185694:android:2db84a0642ba616d",
+        "android_client_info": {
+          "package_name": "com.sulaimandanmallan.androidonlinegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436065185694-vcrbvf7sal5psu7kkkd1ugfdi0imipc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sulaimandanmallan.androidonlinegame",
+            "certificate_hash": "7d48bd75b8d0b87e7b4dca5f1ce864751dcf181e"
+          }
+        },
+        {
+          "client_id": "436065185694-ehhk884436n9354sabdrbsujrdlts5mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaO2R5G2kKDN-ZoUtEj7fdIkLOwDXHLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436065185694-ehhk884436n9354sabdrbsujrdlts5mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
